@@ -7,6 +7,8 @@ Passos para rodar projeto abaixo.
 
 
 
-Passo 1: Escreva no terminal "cd Front-End-opção-1/app" para acessar o projeto.
+Passo 1: Escreva no terminal "cd Front-End-opção-1/app" para acessar a pasta do projeto.
 
-Passo 2: Escreva "npm start" no terminal para rodar o projeto.
+Passo 2: É necessário usar "npm install react-scripts --save" quando entrar na pasta do projeto, para instalar o script de inicialização.
+
+Passo 3: Escreva "npm start" no terminal para rodar o projeto.
