@@ -1,0 +1,19 @@
+(Certifique-se que a primeira pasta do terminal seja "Testes" (A pasta que envolve todos os projetos) antes de seguir os passos, para não haver conflitos com os outros projetos.
+Por exemplo: "C:\Users\someone\OneDrive\Desktop\Testes>")
+
+
+
+O projeto foi feito com Django, então é necessário ter ele baixado no sistema (pip install Django).
+
+
+Passos para rodar o projeto em Django abaixo:
+
+
+
+Passo 1: Acessar pasta do projeto com "cd Back-End-opção-2/projeto" pelo terminal.
+
+Passo 2: Escrever no terminal "python manage.py runserver" para rodar o projeto.
+
+
+
+Caso seja necessário ativar a máquina virtual para rodar, basta abrir o terminal "Git Bash" ou "Git" e escrever ". venv/Scripts/activate" no terminal.

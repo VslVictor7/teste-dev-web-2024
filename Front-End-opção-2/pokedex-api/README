@@ -1,0 +1,12 @@
+(Certifique-se que a primeira pasta do terminal seja "Testes" (A pasta que envolve todos os projetos) antes de seguir os passos, para não haver conflitos com os outros projetos.
+Por exemplo: "C:\Users\someone\OneDrive\Desktop\Testes>")
+
+Projeto foi feito utilizando React.JS, é necessário ter ele instalado no sistema.
+
+Passos para rodar projeto abaixo.
+
+
+
+Passo 1: Escreva no terminal "cd Front-End-opção-2/pokedex-api" para acessar o projeto.
+
+Passo 2: Escreva "npm start" no terminal para rodar o projeto.

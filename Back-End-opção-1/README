@@ -1,0 +1,13 @@
+(Certifique-se que a primeira pasta do terminal seja "Testes" (A pasta que envolve todos os projetos) antes de seguir os passos, para não haver conflitos com os outros projetos.
+Por exemplo: "C:\Users\someone\OneDrive\Desktop\Testes>")
+
+
+
+Passos para rodar o arquivo python para consultar CNPJ abaixo:
+
+
+
+
+PASSO 1: Escrever no terminal "cd Back-End-opção-1"
+
+PASSO 2: Escrever no terminal "python cnpj.py" para rodar o script solicitado.
